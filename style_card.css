@@ -1,12 +1,22 @@
 body {
     font-family: "리디바탕", "ridi-batang";
-    margin-top: 50px;
+    margin: 0;
 }
 
-h1 {
+#mcard {
+    margin: auto;
+    width: 600px;
     text-align: center;
 }
 
-p {
-    text-align: center;
+.gap50 {
+    height: 50px;
+}
+
+.gap30 {
+    height: 30px;
+}
+
+.gap10 {
+    height: 10px;
 }
